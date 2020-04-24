@@ -52,7 +52,7 @@ if (isset($_REQUEST['sair'])) {
     <body>
         <div class="container">
             <center>
-                <h1>Modelo projeto</h1>
+                <h1>Modelo projeto 2020</h1>
             </center>
             <h3>Bem vindo <?php echo $_SESSION['funcao'] . ", " . $_SESSION['nome']; ?></h3>
             <div style="text-align: right;"> 
